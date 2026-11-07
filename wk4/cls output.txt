@@ -1,0 +1,392 @@
+Python 3.13.15 (tags/v3.13.15:4061bc4, Aug  5 2026, 13:05:39) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+
+========================================== RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =========================================
+
+========================================== RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =========================================
+4
+5
+6
+7
+8
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+1
+2
+3
+4
+5
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+5
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+0
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+0
+0
+0
+0
+0
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+5
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+5
+######################
+Traceback (most recent call last):
+  File "C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py", line 14, in <module>
+    print(true)
+NameError: name 'true' is not defined. Did you mean: 'True'?
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+5
+######################
+0
+1
+2
+3
+4
+5
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+5
+0
+1
+2
+3
+4
+5
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+1
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+1
+1
+1
+1
+1
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+21
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+25
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+2
+4
+6
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+2
+6
+10
+14
+18
+22
+26
+30
+34
+38
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+1
+3
+5
+7
+9
+11
+13
+15
+17
+19
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+0
+2
+4
+6
+8
+10
+12
+14
+16
+18
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+2
+4
+6
+8
+10
+12
+14
+16
+18
+
+Warning (from warnings module):
+  File "C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py", line 15
+    if odd_number is 1>= 19:
+SyntaxWarning: "is" with 'int' literal. Did you mean "=="?
+>>> 
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+Traceback (most recent call last):
+  File "C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py", line 15, in <module>
+    if odd_number is 1>= 19:
+NameError: name 'odd_number' is not defined
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+Traceback (most recent call last):
+  File "C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py", line 17, in <module>
+    print (odd)
+NameError: name 'odd' is not defined. Did you mean: 'ord'?
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+2
+4
+6
+8
+10
+12
+14
+16
+18
+1
+2
+3
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+2
+4
+6
+8
+10
+12
+14
+16
+18
+1 - 2
+2 - 4
+3 - 6
+4 - 8
+5 - 10
+6 - 12
+7 - 14
+8 - 16
+9 - 18
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+-1
+-2
+-3
+-4
+-5
+-6
+-7
+-8
+-9
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+1*2 = 2
+2*2 = 4
+3*2 = 6
+4*2 = 8
+5*2 = 10
+6*2 = 12
+7*2 = 14
+8*2 = 16
+9*2 = 18
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+enter a number:
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+enter a number:
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+enter a number:3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+enter a number:3
+3
+6
+9
+12
+15
+18
+21
+24
+27
+30
+33
+36
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+enter a number:3
+i*3
+i*3
+i*3
+i*3
+i*3
+i*3
+i*3
+i*3
+i*3
+i*3
+i*3
+i*3
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+enter a number:3
+3*i
+3*i
+3*i
+3*i
+3*i
+3*i
+3*i
+3*i
+3*i
+3*i
+3*i
+3*i
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+enter a number:3
+3
+6
+9
+12
+15
+18
+21
+24
+27
+30
+33
+36
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+enter a number:3
+1*3=3
+2*3=6
+3*3=9
+4*3=12
+5*3=15
+6*3=18
+7*3=21
+8*3=24
+9*3=27
+10*3=30
+11*3=33
+12*3=36
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+enter a number:3
+1*1=1
+2*2=4
+3*3=9
+4*4=16
+5*5=25
+6*6=36
+7*7=49
+8*8=64
+9*9=81
+10*10=100
+11*11=121
+12*12=144
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+enter a number:3
+1*3=3
+2*3=6
+3*3=9
+4*3=12
+5*3=15
+6*3=18
+7*3=21
+8*3=24
+9*3=27
+10*3=30
+11*3=33
+12*3=36
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+enter a number:2
+1*2=2
+2*2=4
+3*2=6
+4*2=8
+5*2=10
+6*2=12
+7*2=14
+8*2=16
+9*2=18
+10*2=20
+11*2=22
+12*2=24
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+enter student score36
+1*36 =36
+2*36 =72
+3*36 =108
+4*36 =144
+5*36 =180
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+enter student score38
+student 1 =38
+student 1 =38
+student 1 =38
+student 1 =38
+student 1 =38
+>>> 
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+enter student score: 67
+student =67
+student =67
+student =67
+student =67
+student =67
+>>> 
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+no of students: 5
+student score46
+student =46
+student score
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+no of students: 5
+student score:70
+student =70
+student score:70
+student =70
+student score:67
+student =67
+student score:56
+student =56
+student score:87
+student =87
+>>> 
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py =
+student score:70
+student =70
+student score:
+Traceback (most recent call last):
+  File "C:/Users/User/OneDrive/Documents/COS 101_PRACT/wk 5/clss.py", line 28, in <module>
+    student_score =int(input("student score:"))
+ValueError: invalid literal for int() with base 10: ''

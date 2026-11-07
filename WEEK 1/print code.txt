@@ -1,0 +1,79 @@
+Python 3.13.15 (tags/v3.13.15:4061bc4, Aug  5 2026, 13:05:39) [MSC v.1944 64 bit (AMD64)] on win32
+Enter "help" below or click "Help" above for more information.
+
+===================================== RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/WEEK 1/print coode.py =====================================
+the class has started
+the class is ending now
+
+===================================== RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/WEEK 1/print coode.py =====================================
+the class has started
+the class is ending now
+
+
+
+===================================== RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/WEEK 1/print coode.py =====================================
+the class has started
+the class is ending now
+
+
+====================================
+COS101 PRACTICAL
+Introduction to python
+====================================
+
+Programme: software engineering
+Level: 100
+week: 1
+
+
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/WEEK 1/print coode.py
+the class has started
+the class is ending now
+
+
+====================================
+COS101 PRACTICAL
+Introduction to python
+====================================
+
+Programme: software engineering
+Level: 100
+week: 1
+
+Today, I will create and run a python program
+>>> 
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/WEEK 1/print coode.py
+the class has started
+the class is ending now
+
+
+====================================
+COS101 PRACTICAL
+Introduction to python
+====================================
+
+Programme: software engineering
+Level: 100
+week: 1
+
+Today, I will create and run a python program
+>>> 
+= RESTART: C:/Users/User/OneDrive/Documents/COS 101_PRACT/WEEK 1/print coode.py
+the class has started
+the class is ending now
+
+
+====================================
+COS101 PRACTICAL
+Introduction to python
+====================================
+
+Programme: software engineering
+Level: 100
+week: 1
+
+Today, I will create and run a python program
+Traceback (most recent call last):
+  File "C:/Users/User/OneDrive/Documents/COS 101_PRACT/WEEK 1/print coode.py", line 18, in <module>
+    print(10 / 0)
+ZeroDivisionError: division by zero

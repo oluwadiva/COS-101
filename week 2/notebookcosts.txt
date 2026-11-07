@@ -1,0 +1,13 @@
+# Calculate the cost of items
+
+item_name = "Notebook"
+quantity = 3
+unit_price = 500
+Total_cost = quantity * unit_price
+
+
+print("item:", item_name)
+print("quantity", quantity)
+print("unit_price", unit_price, "naira")
+print("Total cost", Total_cost, "naira")
+

@@ -1,0 +1,7 @@
+print("Hello world")
+print("Welcome to COS101 practical")
+print('python is interesting')
+print("i am a student,and i'm learning python")       
+print(8/2)
+print(10+2)
+print(68*4)
